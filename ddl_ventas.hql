@@ -3,3 +3,4 @@ delete
 join
 update
 drop
+select
